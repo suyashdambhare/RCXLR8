@@ -400,7 +400,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );color: var(--carolina-blue); }
 \*-----------------------------------*/
 
 .hero { padding-top: 120px;
-background: url(/assets/images/bg.jpeg) no-repeat;
+background: url(./assets/images/bg.jpeg) no-repeat;
 background-position: center center;
     background-size: cover; 
   }
